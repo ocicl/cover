@@ -1,0 +1,10 @@
+* cover
+
+The COVER coverage package for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pfdietz/cover.git   |
+| commit  | 5e9ac1c  |
+| systems | cover |
+|---------+-------------------------------------------|
+
